@@ -7,7 +7,7 @@ import BoxSizes from './BoxSizes'
 import Suppliers from './Suppliers'
 import StockManagement from './StockManagement'
 import StreetVendors from './StreetVendors'
-import MapPage from './MapPage'
+import MapPage from './mapPage'
 import Orders from './Orders'
 import Reports from './Reports'
 
